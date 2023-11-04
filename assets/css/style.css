@@ -1224,11 +1224,12 @@ section {
   font-size: 13px;
 }
 
-.download-btn {
+.download-btn, .download-btn:hover {
     background: #0563bb;
     padding: 10px 30px;
     border-radius: 20px;
     text-decoration: none;
     color: initial;
     appearance: button;
+    text-align: center;
 }
